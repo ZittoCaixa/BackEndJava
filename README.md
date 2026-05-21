@@ -2,6 +2,13 @@
 
 API Quarkus para simular juros compostos, persistir historico e consultar simulacoes por ID.
 
+## Autor
+- Ramon Marques Coutinho
+- Matrícula: C078969
+- Finalidade: Produção Temática – Av Técnica interna CAIXA
+- PSI: 15262 - Talentos Digitais _ Caixaverso_DESENVOLVEDOR BACKEND JAVA _ASSISTENTE SENIOR (2058)
+- PSI: 15263 - Talentos Digitais _ Caixaverso_DESENVOLVEDOR BACKEND JAVA _ASSISTENTE PLENO (2057)
+
 ## Requisitos
 
 - Java 25
